@@ -8,19 +8,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ghotala
+    tagline: 3D Animator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: ankitmis.b456@gmail.com
+    phone: 9305767540
+    timezone: India.Kolkata
+    citizenship: Indian
+    website: https://sites.google.com/view/ghotala/home #do not add http://
+    linkedin: 
     xing: alandoe
-    github: sharu725
+    github: ankitghotala
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -33,13 +33,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Hindi
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
